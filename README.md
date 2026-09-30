@@ -19,3 +19,5 @@ de Ingenieria en Ciencia de Datos, Universidad EAN.
 
 Jose Daniel Ortiz Rodriguez - 2026
 
+
+Actualizacion desde la sesion del ciclo pull/push
